@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Mohsin.
 - 👀 I’m interested in Web Development.
-- 🌱 I have 2 years of experiance in React.js and I’m currently learning node.js.
+- 🌱 I have 2 years of experience in React.js and I’m currently learning Node.js.
 - 🧠 I plan to be a full stack developer.
 - 📫 How to reach me: mohsinmohammad122@gmail.com
 
